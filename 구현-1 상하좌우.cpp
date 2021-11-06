@@ -3,7 +3,7 @@
 #include<cstring>
 using namespace std;
 int main(){
-	int N=0,A[100][100]={0,};
+	int N=0;
 	int dx=0,dy=0;
 	char B[4]={'L','R','U','D'};
 	int x[4]={0,0,-1,1},y[4]={-1,1,0,0};
