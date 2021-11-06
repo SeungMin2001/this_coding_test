@@ -35,11 +35,9 @@
  <br><br><br>
 # 그리디
   - [거스름돈](https://github.com/ssm2020/this_coding_test/blob/7b39968b7f7fe86b81ae32755bce842c211e4837/%EA%B7%B8%EB%A6%AC%EB%94%94-1%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.c++)
-  - 
   - [큰 수의 법칙](https://github.com/ssm2020/this_coding_test/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94-2%20%ED%81%B0%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.c++)
   
   - [숫자 카드 게임](https://github.com/ssm2020/this_coding_test/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94-3%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.cpp)
-  - 
   - [1이 될 때까지](https://github.com/ssm2020/this_coding_test/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94-4%201%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80.cpp)
  <br><br><br>
 # 구현
