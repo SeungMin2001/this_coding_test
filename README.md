@@ -34,7 +34,7 @@
      
  <br><br><br>
 # 그리디
-  - [거스름돈]그리디-1 거스름돈.c++
+  - [거스름돈](https://github.com/ssm2020/this_coding_test/blob/7b39968b7f7fe86b81ae32755bce842c211e4837/%EA%B7%B8%EB%A6%AC%EB%94%94-1%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.c++)
  <br><br><br>
 # 구현
 
