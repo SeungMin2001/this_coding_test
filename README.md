@@ -31,7 +31,10 @@
     <br><br><b>이 책에서는 별 다른 언급이 없다면 '복잡도'란 시간복잡도를 의미한다.</b>
     
      
- <br><br><br>
+ <br><br>
+ # -내가 푼 문제들- 
+ <br>
+ 
 # 그리디
   - [거스름돈](https://github.com/ssm2020/this_coding_test/blob/7b39968b7f7fe86b81ae32755bce842c211e4837/%EA%B7%B8%EB%A6%AC%EB%94%94-1%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.c++)
   - [큰 수의 법칙](https://github.com/ssm2020/this_coding_test/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94-2%20%ED%81%B0%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.c++)
