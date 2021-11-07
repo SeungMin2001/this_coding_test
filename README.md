@@ -5,8 +5,7 @@
   - [코드 시그널](https://app.codesignal.com)
   - [코드포스](https://codeforces.com)
   - [정올](https://jungol.co.kr)
-  - [생활코딩](https://opentutorials.org)
-    * [커뮤니티](https://www.facebook.com/groups/174499879257223)
+  - [생활코딩](https://opentutorials.org)  -  [커뮤니티](https://www.facebook.com/groups/174499879257223)
   - [백준 SLACK](https://acmicpc.slack.com)
  <br><br><br>
 # 복잡도
