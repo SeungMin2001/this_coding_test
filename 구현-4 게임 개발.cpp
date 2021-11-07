@@ -22,16 +22,16 @@ int main(){
 		}
 	}
 	while(1){
-		left();																	                                //왼쪽으로 턴
+		left();	 //왼쪽으로 턴
 		if(A[dx+x[index]][dy+y[index]]==0&&check[dx+x[index]][dy+y[index]]==0){ //갈수 있는지 확인
-			dx+=x[index];													                              	//갈수 있으면 감
+			dx+=x[index];		//갈수 있으면 감
 			dy+=y[index];
 			count++;
 			check[dx][dy]=1;
 			end=0;
 		}
-		else end++;																//못가면 end++ 함
-		if(end==4){																//end==4 즉 4방향 다 못가면 뒤로 돌기
+		else end++;	//못가면 end++ 함
+		if(end==4){	//end==4 즉 4방향 다 못가면 뒤로 돌기
 			end=0;
 			left();
 			left();
@@ -41,7 +41,7 @@ int main(){
 				left();
 				left();
 			}	
-			else break;																//뒤로 돌았는데 바다면 게임 끝
+			else break;	//뒤로 돌았는데 바다면 게임 끝
 		}
 	}
 	printf("%d",count);
