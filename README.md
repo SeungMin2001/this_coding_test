@@ -52,8 +52,8 @@
 
   - [게임 개발](https://github.com/ssm2020/this_coding_test/blob/main/%EA%B5%AC%ED%98%84-4%20%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C.cpp)
  <br><br><br>
-# DFS/BFS
-- <br>이 단원은 특히 오버플로&언더플로 를 조심하자</br>
+# DFS/BFS 
+- 이 단원은 특히 오버플로&언더플로 를 조심하자
 
  <br><br><br>
 # 정렬
