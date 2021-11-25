@@ -14,7 +14,8 @@ int bfs(int x,int y){
 				q.push(make_pair(x+go_a[i],y+go_b[i]));
 				check[x+go_a[i]][y+go_b[i]]=check[x][y]+1;//탐색을 하나씩 할수록 1증가(마지막에 얼만큼 왔는지 알아낼려고)
 				if(x+go_a[i]==a&&y+go_b[i]==b){ //종착지점 확인
-					printf("%d",check[x+go_a[i]][y+go_b[i]]);
+					//printf("%d",check[x+go_a[i]][y+go_b[i]]); //살짝 아쉬운 생각이였음  
+					printf("%d",check[a][b]); //종착지점 출력하기 (이게 맞는접근인듯)
 					return 0;
 				}
 			}
